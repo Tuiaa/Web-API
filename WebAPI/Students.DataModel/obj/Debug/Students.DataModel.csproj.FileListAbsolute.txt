@@ -1,0 +1,13 @@
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\Students.DataModel.dll
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\Students.DataModel.pdb
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Bson.dll
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Driver.Core.dll
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Driver.dll
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Bson.xml
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Driver.xml
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Driver.Core.xml
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\obj\Debug\Students.DataModel.csprojResolveAssemblyReference.cache
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\obj\Debug\Students.DataModel.dll
+D:\Minja\GitHubProjects\Web-API\WebAPI\Students.DataModel\obj\Debug\Students.DataModel.pdb
